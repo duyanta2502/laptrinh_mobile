@@ -1,4 +1,2 @@
-<<<<<<< HEAD
-=======
-nguuuuahfaoifaffa 
->>>>>>> an
+test lai 1 lan push tu an -> master -> main
+

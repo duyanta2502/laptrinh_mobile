@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 test lai 1 lan push tu an -> master -> main
 
+=======
+test lai 1 lan push tu an -> master merge main ver2
+>>>>>>> an
